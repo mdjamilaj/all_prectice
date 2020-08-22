@@ -1,0 +1,20 @@
+Customer ID: 677197985  
+Pass -    Riyad@12345#
+Kazi Md Faisal
+
+
+55100 - zip code
+
+
+Kazi Md - First
+Faisal - Last
+
+ip = 198.251.69.22
+user=root
+pass=1S?3Q542bj
+
+database:
+uername= newuser
+password= password
+database=kmf
+https://kmfgamermall.com/
